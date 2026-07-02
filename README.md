@@ -33,7 +33,7 @@ Password-Generator-Streamlit/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Password-Generator-Streamlit.git
+git clone https://github.com/pratyushh720/Password-Generator-Streamlit.git
 ```
 
 Move into the project directory:
